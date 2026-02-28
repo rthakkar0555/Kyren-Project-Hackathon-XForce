@@ -1,8 +1,16 @@
-"# Kyren-Project-Hackathon-XForce" 
-Rishi thakkar
-prit patel
-malay sheta
-ready to win
+# 🚀 Kyren - Project Hackathon XForce
+
+> Ready to Win 🏆
+
+---
+
+## 👥 Team Members
+
+- **Rishi Thakkar**
+- **Prit Patel**
+- **Malay Sheta**
+
+---
 
 # 🎓 Kyren - Intelligent Course Generation Platform
 
